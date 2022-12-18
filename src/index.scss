@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;700&display=swap');
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font-family: 'Open Sans Condensed', sans-serif;
+}
+
+body {
+  margin: 0;
+  padding: 20px 40px;
+  
+}
+
+@media screen and (max-width: 800px) {
+  body {
+  padding: 10px;
+}
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+
+
+
